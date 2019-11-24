@@ -1,7 +1,5 @@
-# paijoo-client
-
-Project Paijoo 
-## Developed by :   https://github.com/Aliapoh9    https://github.com/thanutza   https://github.com/boblancer
+# Project Paijoo 
+## Developed by :  github.com/Aliapoh9  github.com/thanutza  github.com/boblancer
 
 
 ## Features
