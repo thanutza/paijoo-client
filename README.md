@@ -1,6 +1,11 @@
 # paijoo-client
 
-Hello guys 
+Project Paijoo 
+## Developed by :   https://github.com/Aliapoh9    https://github.com/thanutza   https://github.com/boblancer
+
+
+## Features
+
 ![Image of login features](https://github.com/thanutza/paijoo-client/blob/master/images/paijoo_login2.PNG)
 ![Image of main features](https://github.com/thanutza/paijoo-client/blob/master/images/paijoo_main2.PNG)
 ![Image of lock features](https://github.com/thanutza/paijoo-client/blob/master/images/paijoo_lock2.PNG)
